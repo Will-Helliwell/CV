@@ -2,9 +2,9 @@
 
 I have always been drawn to analytical thinking, and after 4 years of working within the food industry and travelling abroad, I am excited to have found software as a fulfilling career path that satisfies my desires to learn and problem-solve.
 
-After graduating from Cambridge in 2016 with a degree in Natural Sciences, I worked as a Food Buyer at Sainsbury’s for over two years, applying analytical thinking in a fast-paced and high-pressure commercial context. Since leaving, I have created my own food website, spent eight months travelling and volunteering across South Asia and Taiwan, and started my own food business during lockdown.
+After graduating from Cambridge in 2016 with a degree in Natural Sciences, I worked as a Food Buyer at Sainsbury’s for over two years, applying analytical thinking in a fast-paced and high-pressure commercial context. Since leaving, I have created my own food website, spent eight months travelling and volunteering across South Asia and Taiwan, and started my own food business during lockdown in the UK.
 
-More recently, I discovered my interest in coding, and chose to enrol at Makers Academy because of their strong focus on coding best practices. During the course I have become passionate about writing well-structured, elegant code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
+More recently, I discovered my interest in coding, and chose to enrol at Makers Academy because of their strong focus on coding best practices. During the course I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
 
 
 ## Projects
@@ -17,24 +17,12 @@ More recently, I discovered my interest in coding, and chose to enrol at Makers 
 
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- **Problem-solving & Creativity** - I loved thinking analytically from an early age, volunteering to spend a Summer at 16 working in a Developmental Neurobiology lab at King's College London, earning me  a CREST Gold Award . This has continued into my career. As buyer at Sainsbury's Cafe, I organised a trial to drastically reduce menu-size in 10 cafes. Following its success, I then began my own plan to roll-out menu reduction in a targeted manner across the estate by data-lead clustering of the 325 cafes for the first time.
+- **Learning mindset** - able to quickly learn what I need to know in order to get the job done. I joined Sainsbury's following an incumbent departure. Quickly familiarised myself with all technical aspects (including till-setup, menu board proofing & ordering, price and promotions setup, food photography) to deliver the first range change with no major hiccups. Have a strong personal appetite to learn - taught myself how to use Wordpress and host a website with no prior knowledge during my spare time abroad.
+- **People Skills** - worked for 2 years as part of a close-knit Agile trading team at Sainsbury's. Communicated with technical, product developers, supply chain etc in order to deliver large projects, including the largest range review Cafe had seen for 20 years. As buyer, I built professional relationships with suppliers, deciding when to collaborate and when to 'push'.
+- **Project Management and Initiative** - experience managing and delivering complex projects involving collaboration with external teams and stakeholders, e.g. improving the Sainsbury's cafe salad range to increase sales by over 20%. Have the initiative to drive these projects myself even if it requires learning as I go - when I started my cakes business, I had to organise and familiarise myself with all aspects, including but not limited to: marketing, order management, efficient cooking on a commercial scale, business registration and government food safety requirements.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Experience Since University
+## Experience
 
 **Food Business** (May'20 to August'20)  
 
@@ -50,6 +38,7 @@ _Food Buyer, Cafe_
 
 - After 11 months learning in an entry-level role in the trading team, I was promoted to Food Buyer for the cafe, where I was responsible for circa £60m annual spend in conjunction with the Trading Manager.
 - Analysed data from Sainsbury’s trading systems, combining insights with store-visits, supplier visits and internal product development meetings to design the overall customer proposition (focussing particularly on product range/menu). Created the pricing and promotions structure for this range. Responsible for supplier strategy and negotiations on a wide range of product areas including but not limited to: ready meals, soft drinks, bakery, impulse and ice cream.
+- Worked for two years as part of a close-knit trading team for cafe, following the Agile Methodology.
 
 ## Education
 
