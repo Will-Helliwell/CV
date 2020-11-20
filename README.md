@@ -2,7 +2,7 @@
 
 I have always been drawn to analytical thinking, and after 4 years of working within the food industry and travelling abroad, I am excited to have found software as a fulfilling career path that satisfies my desires to learn and problem-solve.
 
-After graduating from Cambridge in 2016 with a degree in Natural Sciences, I worked as a Food Buyer at Sainsbury’s for over two years, applying analytical thinking in a fast-paced and high-pressure commercial context. Since leaving, I have created my own food website, spent eight months travelling and volunteering across South Asia and Taiwan, and started my own food business during lockdown in the UK.
+After graduating from Cambridge in 2016 with a degree in Natural Sciences, I worked as a Food Buyer at Sainsbury’s for over two years, applying analytical thinking in a fast-paced and high-pressure commercial context. Since leaving, I have created [my own food website](https://makethatdish.com/), spent eight months travelling and volunteering across South Asia and Taiwan, and started my own food business during lockdown in the UK.
 
 More recently, I discovered my interest in coding, and chose to enrol at Makers Academy because of their strong focus on coding best practices. During the course I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
 
@@ -31,7 +31,7 @@ More recently, I discovered my interest in coding, and chose to enrol at Makers 
 
 **Travel and Food Website:** (Jun'19 to March'20)  
 
-- Bought a one-way ticket and spent 8 months volunteering, working and travelling in South-East Asia, Taiwan and Sri Lanka. Taught myself to use Wordpress in my spare time and created a website for ‘amateur food enthusiasts’, which is now an ongoing outlet for my love of food.
+- Bought a one-way ticket and spent 8 months volunteering, working and travelling in South-East Asia, Taiwan and Sri Lanka. Taught myself to use Wordpress in my spare time and [created a website](https://makethatdish.com/) for ‘amateur food enthusiasts’, which is now an ongoing outlet for my love of food.
 
 **Sainsbury's** (May'17 to Jun'19)  
 _Food Buyer, Cafe_
@@ -58,7 +58,7 @@ _Food Buyer, Cafe_
 #### University of Cambridge (2013 to 2016)
 
 - Graduated with a 2:1 in Biological Natural Sciences, specialising in Developmental Biology.
-- Following critical analysis of the literature, I collaborated with my supervisor to design a series of experiments, and independently produced a 7000 word report providing the first evidence for the existence of a specific signaling system in C.elegans (a nematode worm).
+- Following critical analysis of the literature, I collaborated with my supervisor to design a series of experiments, and independently produced a 7000 word report providing the first evidence for the existence of a specific signalling system in *C.elegans* (a nematode worm).
 - Successfully balanced a full 7-day-week academic timetable with multiple voluntary commitments (e.g. secretary of the rugby club – responsible for club finances, preparations for teaching Summer camps in China).
 
 #### RGS Guildford (2005 to 2012)
@@ -76,5 +76,5 @@ _Food Buyer, Cafe_
 - **Guitar**
 
 ## Links
-- Codewars
-- MakeThatDish.com
+- [Codewars](https://www.codewars.com/users/Will%20Helliwell)
+- [MakeThatDish.com](https://makethatdish.com/)
