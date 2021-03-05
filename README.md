@@ -42,7 +42,7 @@ _Food Buyer, Cafe_
 
 ## Education
 
-#### Makers Academy (Oct'12 to March'12)
+#### Makers Academy (November 20 to March 21)
 
 - I chose to enrol at Makers Academy to accelerate my learning because they were highly selective, had a strong reputation for producing quality graduates, and focussed on coding best practices. The course has given me a solid grounding in:
 - OOP, TDD, MVC, DDD
