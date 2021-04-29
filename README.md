@@ -9,10 +9,13 @@ More recently, I discovered my interest in coding, and chose to enrol at Makers 
 
 ## Projects
 
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Recipy** | • A recipe app with infinite scroll, and  live-filtering of recipes. I paired with a teammate to build an ambitious web scraper, learning Puppeteer to extract 5000 recipes from bbcgoodfood.com. <br> • Improved team process - proposed and conducted daily knowledge sharing and feedback sessions, helping the team to collaborate and learn the new stack from each other. Deployed working software in small batches, completing almost all user-stories from an ambitious list in 2 weeks. | Node.js, React, Mongo DB, Puppeteer, Cypress|
+| **Whisky Tracker** | • My current ongoing side project - will save whisky-lovers’ time by tracking their favourite bottles across multiple sites using a web-scraper, emailing them when their desired price is reached. <br>• Following a tight BDD process to build from user-stories, using an MVC architecture. Current status: testing infrastructure, Travis continuous integration and user sign-in/up/out completed.| Rails, PostgreSQL, React |
+| **Essbok** | • A social media app developed as a team. Allows signed-in users to make and delete posts from a posts page (a single-page React app  that can dynamically change in an event-based manner).• Used ActiveRecord and PostgreSQL to manage user and post data in a SQL database. • Unit and integration tested. Deployed via a continuous integration/continuous delivery pipeline. | Rails, PostgreSQL, React |
+
 
 
 ## Skills
