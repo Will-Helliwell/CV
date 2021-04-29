@@ -29,42 +29,47 @@ More recently, I discovered my interest in coding, and chose to enrol at Makers 
 
 ## Experience
 
-**Food Business** (May'20 to August'20)  
+**Food Website and Business** (Jun'19 to Sep'20)  
 
-- When the pandemic put my chef job on-hold, I decided to take my food directly to customers by setting up a small business making and delivering rocky road in East Surrey. I was selling an average of 150 slices a week by the time I transitioned to full-time coding study.
-
-
-**Travel and Food Website:** (Jun'19 to March'20)  
-
-- Bought a one-way ticket and spent 8 months volunteering, working and travelling in South-East Asia, Taiwan and Sri Lanka. Taught myself to use Wordpress in my spare time and [created a website](https://makethatdish.com/) for ‘amateur food enthusiasts’, which is now an ongoing outlet for my love of food.
+- Taught myself to build a [Wordpress website](https://makethatdish.com/) from scratch to share knowledge with amateur cooks whilst abroad. I now write for and maintain the site, attracting 1000 unique visitors per month.<br>
+- Returned to the UK and started my own business selling fridge-cake in East Surrey. Learned aspects of marketing, product development, packaging, delivery and food safety to deliver up to 160 slices/week.
 
 **Sainsbury's** (May'17 to Jun'19)  
 _Food Buyer, Cafe_
 
-- After 11 months learning in an entry-level role in the trading team, I was promoted to Food Buyer for the cafe, where I was responsible for circa £60m annual spend in conjunction with the Trading Manager.
-- Analysed data from Sainsbury’s trading systems, combining insights with store-visits, supplier visits and internal product development meetings to design the overall customer proposition (focussing particularly on product range/menu). Created the pricing and promotions structure for this range. Responsible for supplier strategy and negotiations on a wide range of product areas including but not limited to: ready meals, soft drinks, bakery, impulse and ice cream.
-- Worked for two years as part of a close-knit trading team for cafe, following the Agile Methodology.
+- Promoted after 11 months to Cafe Buyer, where I owned the design and execution of trading strategy (responsible for 350 stores and a £60m annual spend). Made data-driven decisions to keep margin flat.<br>
+- Developed strong communication skills working in an Agile team and building supplier relationships.<br>
+- Problem-solving and communication -  designed a salad range to improve customer experience. Listened to the perspective of Operations, who were cautious about difficulty for colleagues. Adapted to find a pragmatic solution, reducing menu complexity elsewhere to launch (sales increased 20% YoY).
 
 ## Education
 
 #### Makers Academy (November 20 to March 21)
 
-- I chose to enrol at Makers Academy to accelerate my learning because they were highly selective, had a strong reputation for producing quality graduates, and focussed on coding best practices. The course has given me a solid grounding in:
-- OOP, TDD, MVC, DDD
+- Recently completed the fully remote and highly selective London Coding Bootcamp with a focus on code quality, TDD and OOP principles. Used BDD as a methodology to gather requirements and implement user stories projects as a team.<br>
+- Daily pairing required excellent communication, collaboration and feedback. Used my interpersonal skills from retail to help improve workflow on team projects, aided by tools like Github and Trello.<br>
+- Gave and received constructive feedback during weekly reviews of coursemates’ code. <br>
+- Volunteered as a mentor to help later students improve by giving technical and pastoral help.
+
+Technologies and practices covered:
+- OOP
+- Testing and TDD (Rspec, Capybara, Jasmine, Cypress)
+- MVC pattern
 - Agile/XP
 - Ruby, Rails, JavaScript
+- React
+- Relational (PostgreSQL) and non-relational (MongoDB) databases.
 - RSpec, Jasmine
+
 
 #### Harvard CS50 (August 20 to present)
 
-- I am enjoying taking this course in my spare time to give me a more rounded view of software development. Specifically I am learning about the fundamentals of Computer Science and gaining a better understanding of how source code works ‘under the hood’ through C-based coding challenges.
+- I am enjoying taking this course in my spare time to give me a more rounded view of software development. Specifically I am learning about the fundamentals of Computer Science and gaining a better understanding of how source code works ‘under the hood’ through C-based coding challenges.<br>
 - Nb - I can’t share my source code publicly due to academic honesty rules, but  am happy to share on request.
 
 #### University of Cambridge (2013 to 2016)
 
-- Graduated with a 2:1 in Biological Natural Sciences, specialising in Developmental Biology.
-- Following critical analysis of the literature, I collaborated with my supervisor to design a series of experiments, and independently produced a 7000 word report providing the first evidence for the existence of a specific signalling system in *C.elegans* (a nematode worm).
-- Successfully balanced a full 7-day-week academic timetable with multiple voluntary commitments (e.g. secretary of the rugby club – responsible for club finances, preparations for teaching Summer camps in China).
+- 2.1 in  Natural Sciences at Christ’s College, specialising in Developmental Biology and Cancer.<br>
+-  Used close attention to detail and data analysis to provide the first evidence for a specific signalling pathway in the nematode worm C.elegans. Clearly communicated the findings to a scientific panel.
 
 #### RGS Guildford (2005 to 2012)
 
@@ -81,5 +86,6 @@ _Food Buyer, Cafe_
 - **Guitar**
 
 ## Links
+- [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/)
 - [Codewars](https://www.codewars.com/users/Will%20Helliwell)
-- [MakeThatDish.com](https://makethatdish.com/)
+- [MakeThatDish.com (my food website, made with Wordpress)](https://makethatdish.com/)
