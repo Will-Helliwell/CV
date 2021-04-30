@@ -1,6 +1,6 @@
 ## William Helliwell
 
-| Linkedin | [Projects](#Projects) | Skills | Experience | Education | Interests | Links |
+| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Links](#Links) |
 
 I am a full-stack developer with a Cambridge STEM background looking to grow my knowledge and skills by solving difficult problems.
 
