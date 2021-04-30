@@ -2,9 +2,9 @@
 
 | [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Links](#Links) |
 
-I am a full-stack developer with a Cambridge STEM background looking to grow my knowledge and skills by solving difficult problems.
+I am a full-stack developer with a Cambridge STEM background looking to learn and grow my skills by contributing to difficult problems in a new domain.
 
-Throughout my working life I haven’t been afraid to challenge myself in order to learn and pursue a fulfilling career. In 2019, I Ieft my successful job as Food Buyer at Sainsbury’s because I knew I wanted a more active problem-solving role solving. Since then, I have worked and travelled across 6 countries, learned Wordpress to create a [website](https://makethatdish.com/) that now attracts 1000 users a month, and started my own lockdown food business. In November I used my savings to enroll in Makers Academy because I found software to be the field that marries my analytical strengths with the potential to build solutions that have an impact on many people (with the refreshing bonus of being stimulating day-to-day!).
+Throughout my working life I haven’t been afraid to challenge myself in order to learn and pursue a fulfilling career. In 2019, I Ieft my successful job as Food Buyer at Sainsbury’s because I knew I wanted a more active problem-solving role solving. Since then, I have worked and travelled across 6 countries, learned Wordpress to create a [website](https://makethatdish.com/) that now attracts 1000 users a month, and started my own lockdown food business. In November I used my savings to enroll in Makers Academy because I found software to be the field that marries my analytical strengths with my desire to build things that solve problems for people (with the refreshing bonus of being stimulating day-to-day!).
 
 During the course of Makers Academy I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
 
