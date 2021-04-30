@@ -54,16 +54,16 @@ _Food Buyer, Cafe_
 
 #### Makers Academy (November 20 to March 21)
 
-Technologies and practices covered:
-- Object Oriented Programming
-- Testing and TDD (Rspec, Capybara, Jasmine, Cypress)
-- Agile/XP methodologies
-- Pair programming and group projects
-- MVC pattern
-- Full-stack frameworks (Ruby-on-Rails, MERN)
-- Front-end Frameworks (React, Bootstrap)
-- Databases: SQL (PostgreSQL) and no SQL (MongoDB).
-- Git, Travis CI, Heroku
+Technologies and practices covered:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Object Oriented Programming<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Testing and TDD (Rspec, Capybara, Jasmine, Cypress)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Agile/XP methodologies<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Pair programming and group projects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• MVC pattern<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Full-stack frameworks (Ruby-on-Rails, MERN)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Front-end Frameworks (React, Bootstrap)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Databases: SQL (PostgreSQL) and no SQL (MongoDB)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Git, Travis CI, Heroku<br>
 
 - I also volunteered as a mentor to help later students improve by giving technical and pastoral help.
 
