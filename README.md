@@ -1,4 +1,4 @@
-## William Helliwell
+# Will Helliwell
 
 | [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Links](#Links) |
 
