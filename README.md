@@ -1,10 +1,11 @@
 ## William Helliwell
 
-I have always been drawn to analytical thinking, and after 4 years of working within the food industry and travelling abroad, I am excited to have found software as a fulfilling career path that satisfies my desires to learn and problem-solve.
+I am a full-stack developer with a Cambridge STEM background looking to grow my knowledge and skills by solving difficult problems.
 
-After graduating from Cambridge in 2016 with a degree in Natural Sciences, I worked as a Food Buyer at Sainsbury’s for over two years, applying analytical thinking in a fast-paced and high-pressure commercial context. Since leaving, I have created [my own food website](https://makethatdish.com/), spent eight months travelling and volunteering across South Asia and Taiwan, and started my own food business during lockdown in the UK.
+Throughout my working life I haven’t been afraid to challenge myself in order to learn and pursue a fulfilling career. In 2019, I Ieft my successful job as Food Buyer at Sainsbury’s because I knew I wanted a more active problem-solving role solving. Since then, I have worked and travelled across 6 countries, learned Wordpress to create a website that now attracts 1000 users a month, and started my own lockdown food business. In November I used my savings to enroll in Makers Academy because I found software to be the field that marries my analytical strengths with the potential to build solutions that have an impact on many people (with the refreshing bonus of being stimulating day-to-day!).
 
-More recently, I discovered my interest in coding, and chose to enrol at Makers Academy because of their strong focus on coding best practices. During the course I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
+During the course of Makers Academy I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
+
 
 
 ## Projects
@@ -51,25 +52,24 @@ _Food Buyer, Cafe_
 - Volunteered as a mentor to help later students improve by giving technical and pastoral help.
 
 Technologies and practices covered:
-- OOP
+- Object Oriented Programming
 - Testing and TDD (Rspec, Capybara, Jasmine, Cypress)
+- Agile/XP methodologies
+- Pair programming and group projects
 - MVC pattern
-- Agile/XP
-- Ruby, Rails, JavaScript
-- React
-- Relational (PostgreSQL) and non-relational (MongoDB) databases.
-- RSpec, Jasmine
-
+- Full-stack frameworks (Ruby-on-Rails, MERN)
+- Front-end Frameworks (React, Bootstrap)
+- Databases: SQL (PostgreSQL) and no SQL (MongoDB).
+- Git, Travis CI, Heroku
 
 #### Harvard CS50 (August 20 to present)
 
-- I am enjoying taking this course in my spare time to give me a more rounded view of software development. Specifically I am learning about the fundamentals of Computer Science and gaining a better understanding of how source code works ‘under the hood’ through C-based coding challenges.<br>
-- Nb - I can’t share my source code publicly due to academic honesty rules, but  am happy to share on request.
+- Completing C-based coding challenges to learn get a better understanding of how source code works ‘under the hood’.<br>
 
 #### University of Cambridge (2013 to 2016)
 
 - 2.1 in  Natural Sciences at Christ’s College, specialising in Developmental Biology and Cancer.<br>
--  Used close attention to detail and data analysis to provide the first evidence for a specific signalling pathway in the nematode worm C.elegans. Clearly communicated the findings to a scientific panel.
+- Used close attention to detail and data analysis to provide the first evidence for a specific signalling pathway in the nematode worm C.elegans. Clearly communicated the findings to a scientific panel.
 
 #### RGS Guildford (2005 to 2012)
 
