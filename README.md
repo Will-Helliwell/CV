@@ -6,7 +6,7 @@ I am a full-stack developer with a Cambridge STEM background looking to learn an
 
 Throughout my working life I haven’t been afraid to challenge myself in order to learn and pursue a fulfilling career. In 2019, I Ieft my successful job as Food Buyer at Sainsbury’s because I knew I wanted a more active problem-solving role solving. Since then, I have worked and travelled across 6 countries, learned Wordpress to create a [website](https://makethatdish.com/) that now attracts 1000 users a month, and started my own lockdown food business. In November I used my savings to enroll in Makers Academy because I found software to be the field that marries my analytical strengths with my desire to build things that solve problems for people (with the refreshing bonus of being stimulating day-to-day!).
 
-During the course of Makers Academy I have become passionate about writing clean, reusable code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
+During my time at Makers Academy I have become passionate about writing clean, well-tested code. I am now looking for a role where I can continue to build this skill and apply my new found knowledge to solve real-world difficult problems.
 
 
 
@@ -29,11 +29,11 @@ I...
 
 - **Am a quick learner and problem-solver** - I have always loved learning about complex new domains and am not afraid to quickly apply learnings to solve problems, seeking support where necessary. At Sainsbury’s, not only did I successfully manage the technical implementation (e.g. merchandising and till system set-up) of a cafe range review 3 months into my first role with no handover, but after only 6 months I spotted an opportunity for better cafe menu board sourcing. Even though we had been with the supplier for 25 years, I decided to lead a menu-board tender after seeking guidance from my trading manager. The tender saved the category £300k per year and I was promoted to Cafe buyer after 11 months. In a software context, I used my new React and MongoDB skills to suggest and implement a back-end mechanism when my group was struggling with live-filtering on the front-end. This allowed us to keep cleaner front-end logic and complete the feature within the 2-week timeframe.
 
-- **Know when it's best to work as a team** - throughout my career I have enjoyed collaborating with others to get things done. For example, as Sainsbury’s Cafe Buyer I created an ambitious plan to halve menu size across the estate in order to improve customer service. When this was rejected on the basis of commercial-risk, I adapted by communicating closely with Operations and Technical teams to set-up a low-risk trial in 10 stores. After analyzing 5% sales uplift (extrapolating to a possible £8m extra turnover across the estate), I presented the results in a deck that successfully gained senior management’s approval.
+- **Know when it's best to work as a team** - throughout my career I have enjoyed collaborating with others to get things done. For example, as Sainsbury’s Cafe Buyer I created an ambitious plan to halve menu size across the estate in order to improve customer service. When this was rejected on the basis of commercial-risk, I adapted by collaborating closely with Operations and Technical teams to set-up a low-risk trial in 10 stores. After analyzing 5% sales uplift (extrapolating to a possible £8m extra turnover across the estate), I presented the results in a deck that successfully gained senior management’s approval.
 
-- **Am experienced in Agile ways of working** - I have over two years of experience working within a Scrum framework at Sainsbury’s, participating in and subsequently leading sandups, sprint retrospectives and even presenting to the whole trading floor. I liked the way in which the Agile methodology promoted knowledge sharing and debates over approaches, and this mindset has continued with me into tech. During our final project at Makers, I helped my team to learn the brand new MERN stack by running daily knowledge-sharing sessions. This enabled us to develop more efficiently and focus on the product, eventually finishing all but one of our features from an ambitious list in 2 weeks.
+- **Am experienced in Agile ways of working** - I have over two years of experience working within a Scrum framework at Sainsbury’s, participating in and subsequently leading sandups and even presenting to the whole trading floor. I liked the way in which the Agile methodology promoted knowledge-sharing and debates over approaches, and this mindset has continued with me into tech. For example, during our final project at Makers I helped my team to learn the brand new MERN stack by running daily knowledge-sharing sessions. This enabled us to develop more efficiently and focus on the product, eventually finishing all but one of our features from an ambitious list in 2 weeks.
 
-- **Understand the balance between perseverance and support** - I'm pretty relentless once I get my teeth into something, especially if it's a big project or a new learning (e.g. learning brickwork and ordering half a ton of clay to build a working wood-fired pizza oven), and I feel this translates pretty well into one of coders' favourite past-times: debugging (I've already come through some hair-pulling problems setting up the infrastructure for my whisky project). At the same time however, I understand that support can make the learning process much more efficient. At Sainsbury's for example, I asked an experienced buyer from another area to act as my informal mentor, which helped me to progress to Buyer myself within 11 months. I was then able to pass this favour on by acting as a mentor to 3 category assistants myself.
+- **Understand the balance between perseverance and support** - I'm pretty relentless once I get my teeth into something, especially if it's a big project or a new learning (e.g. learning brickwork and ordering half a ton of clay to build a working wood-fired pizza oven), and I feel this trait translates pretty well into one of coders' favourite past-times: debugging (I've already come through some hair-pulling problems setting up the infrastructure for my [whisky tracker project](https://github.com/Will-Helliwell/whisky_tracker)). At the same time however, I understand that support can make the learning process much more efficient. At Sainsbury's for example, I asked an experienced buyer from another area to act as my informal mentor, which helped me to progress to Buyer myself within 11 months. I was then able to pass this favour on by acting as a mentor to 3 category assistants myself.
 
 
 ## Experience
@@ -65,12 +65,12 @@ Technologies and practices covered:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Databases: SQL (PostgreSQL) and no SQL (MongoDB)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Git, Travis CI, Heroku<br>
 
-- I also volunteered as a mentor to help later students improve by giving technical and pastoral help.
+- I also volunteered as a mentor to help later students improve by giving both technical and general support.
 
 
 #### Harvard CS50 (August 20 to present)
 
-- Completing C-based coding challenges to learn get a better understanding of how source code works ‘under the hood’.<br>
+- I have now completed the C-based portion of the course to get a better understanding of how source code works ‘under the hood’.<br>
 
 #### University of Cambridge (2013 to 2016)
 
@@ -89,7 +89,7 @@ Technologies and practices covered:<br>
 - **Teaching/Mentoring** - I am currently a volunteer coach at Codebar, coaching programming basics to minority students. I have always got a buzz from helping other people and have sought out opportunities to do so: twice I have volunteered to travel to China to teach schoolchildren and once as a residential advisor at a Summer camp in Oxford. I have also acted as mentor at Makers Academy and Sainsbury's. 
 - **Learning** - perhaps my biggest driver, which has manifested itself in many forms and hobbies: reading non-fiction, starting my food business, spending a Summer at 16 researching neurobiology at KCL, building a wood-fired oven, building my food website). For me, tech and programming is an exciting and almost limitless opportunity to keep this going. 
 - **Food** - if I hadn’t mentioned already. Along with the website and pizza oven, I'm always cooking, preserving, brewing and most importantly of all, eating.
-- **Sport** - lifelong rugby fanatic (now retired from the real-deal, but a regular at the local touch rugby club) and now a new but enthusiastic climber (stuck on 6B, for now…).
+- **Sport** - lifelong rugby fan (now retired from the real-deal, but a regular at the local touch rugby club) and now a new but enthusiastic climber (stuck on 6B, for now…).
 - **Travel** - I love travelling (mostly to learn about history and food) and have spent nearly two years of my life travelling, teaching, working and volunteering around South-East Asia, South Asia, China and Taiwan.
 
 ## Links
