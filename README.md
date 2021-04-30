@@ -54,11 +54,6 @@ _Food Buyer, Cafe_
 
 #### Makers Academy (November 20 to March 21)
 
-- Recently completed the fully remote and highly selective London Coding Bootcamp with a focus on code quality, TDD and OOP principles. Used BDD as a methodology to gather requirements and implement user stories projects as a team.<br>
-- Daily pairing required excellent communication, collaboration and feedback. Used my interpersonal skills from retail to help improve workflow on team projects, aided by tools like Github and Trello.<br>
-- Gave and received constructive feedback during weekly reviews of coursemates’ code. <br>
-- Volunteered as a mentor to help later students improve by giving technical and pastoral help.
-
 Technologies and practices covered:
 - Object Oriented Programming
 - Testing and TDD (Rspec, Capybara, Jasmine, Cypress)
@@ -69,6 +64,9 @@ Technologies and practices covered:
 - Front-end Frameworks (React, Bootstrap)
 - Databases: SQL (PostgreSQL) and no SQL (MongoDB).
 - Git, Travis CI, Heroku
+
+- I also volunteered as a mentor to help later students improve by giving technical and pastoral help.
+
 
 #### Harvard CS50 (August 20 to present)
 
