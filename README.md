@@ -4,7 +4,6 @@
 
 I am a Full-stack Developer, combining my tech experience with a commercial and Cambridge STEM background. I am passionate about working alongside clients to solve tricky business problems, with 3 years experience creating inventive workarounds for problems and leading on the delivery of greenfield projects serving thousands of customers at a London start-up. I now want to apply these skills to solve difficult problems for new clients in new contexts.
 
-
 ## Technologies
 
 - PostgreSQL MySQL, MongoDB
@@ -23,12 +22,11 @@ I am a Full-stack Developer, combining my tech experience with a commercial and 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Recipy**](https://github.com/Will-Helliwell/Recipy) | • A recipe app with infinite scroll, and  live-filtering of recipes. I paired with a teammate to build an ambitious web scraper, learning Puppeteer to extract 5000 recipes from bbcgoodfood.com. <br> • Improved team process - proposed and conducted daily knowledge sharing and feedback sessions, helping the team to collaborate and learn the new stack from each other. Deployed working software in small batches, completing almost all user-stories from an ambitious list in 2 weeks. | Node.js, React, Mongo DB, Puppeteer, Cypress|
-| [**Whisky Tracker**](https://github.com/Will-Helliwell/whisky_tracker) | • My current ongoing side project - will save whisky-lovers’ time by tracking their favourite bottles across multiple sites using a web-scraper, emailing them when their desired price is reached. <br>• Following a tight BDD process to build from user-stories, using an MVC architecture. Current status: testing infrastructure, Travis continuous integration and user sign-in/up/out completed.| Rails, PostgreSQL, React |
-| [**Essbok**](https://github.com/Will-Helliwell/essbok) | • A social media app developed as a team. Allows signed-in users to make and delete posts from a posts page (a single-page React app  that can dynamically change in an event-based manner).<br>• Used ActiveRecord and PostgreSQL to manage user and post data in a SQL database. <br>• Unit and integration tested. Deployed via a continuous integration/continuous delivery pipeline. | Rails, PostgreSQL, React |
-| [**Bank Tech Test**](https://github.com/Will-Helliwell/bank_tech_test) | • A bank app solo project built in Ruby that can be interacted with via any Ruby REPL <br>• An example of a fully test-driven application built to a set of user stories following OO principles.<br>• 100% test coverage, 100% test-isolation using mocking. | Ruby, Rspec |
+I recommend looking at my portfolio, which includes pictures and desciptions of my recent projects:<br>
+<p align="center">
+    <a href="https://portfolio-eight-blond-12.vercel.app/" target="_blank">Link to my portfolio</a><br>
+    <i>(ctrl + click to open in a new tab)</i>
+</p>
 
 ## Education
 
