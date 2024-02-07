@@ -1,6 +1,6 @@
 # Will Helliwell
 
-| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Technologies](#Technologies) |[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
+| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Technologies](#Technologies) | [Experience](#Experience) |[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
 
 I am a Full-stack Developer, combining my tech experience with a commercial and Cambridge STEM background. I am passionate about working alongside clients to solve tricky business problems, with 3 years experience creating inventive workarounds for problems and leading on the delivery of greenfield projects serving thousands of customers at a London start-up. I now want to apply these skills to solve difficult problems for new clients in new contexts.
 
@@ -14,8 +14,14 @@ I am a Full-stack Developer, combining my tech experience with a commercial and 
 - Ruby,  
 - Bash, Git
 
-## Projects
+## Experience
 
+| Name and dates               | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Senior Full Stack Developer, Switchd**<br>(Jun’21- present) | •Third Engineering hire and now line manager, developing for Switchd (automated energy switching service, 12000 subscribers) and the nascent MakeMyHouseGreen (solar installations, 50 per month).<br>• I recommended, designed and built key infrastructure for MakeMyHouseGreen: e.g. scalable and secure storage for all install documents/images in an AWS S3 (6k documents across 4k sales leads).<br>• I am leading the transformation of ways of working as Switchd moves to becoming a scale-up. I created and trained the team to use a CICD pipeline with automated deployment to AWS, and now am implementing automated testing and migrating from PHP to a React, TypeScript and Node.js stack.<br>• I designed and built a backend for our energy tracking service allowing users to monitor the performance of their installs, consisting of automated and transactional calls to a third-party API to retrieve, store and process the data for display to our customers. I played a key role in rapidly iterating the product to raise the PMF to 35% (so far, from a growing customer base of 50).<br>• I have started a culture of code quality by reviewing others’ code and leading weekly code quality sessions for debate  and documentation of ways to help us all learn to write simple, clean and reusable code. Now junior team members are actively reviewing others’ code and often leading the sessions. | Next.js, React, TypeScript, AWS, Github Actions, PHP, JavasScript, MySQL, Bootstrap |
+| **Food Buyer, Sainsbury’s Head Office, London**<br>(Apr’17– Jun’19) | • I was promoted after 11 months to Cafe Buyer, owning the design of trading strategy (responsible for 350 stores and a £60m annual spend). I made data-driven decisions to keep the margin flat.<br>• I developed strong communication, contributing to Agile meetings and building supplier relationships.<br>• Communication and collaboration -  increased salad sales 20% YoY by designing a new range. Debated with Operations to find a pragmatic solution to launch, reducing menu complexity elsewhere. | |
+
+## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
