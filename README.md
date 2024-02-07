@@ -1,9 +1,18 @@
 # Will Helliwell
 
-| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
+| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Technologies](#Technologies) |[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
 
 I am a Full-stack Developer, combining my tech experience with a commercial and Cambridge STEM background. I am passionate about working alongside clients to solve tricky business problems, with 3 years experience creating inventive workarounds for problems and leading on the delivery of greenfield projects serving thousands of customers at a London start-up. I now want to apply these skills to solve difficult problems for new clients in new contexts.
 
+
+## Technologies
+
+- PostgreSQL MySQL, MongoDB
+- AWS
+- React, TypeScript, Next.js, Node.js,  
+- WordPress, PHP
+- Ruby,  
+- Bash, Git
 
 ## Projects
 
