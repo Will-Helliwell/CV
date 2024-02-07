@@ -1,6 +1,6 @@
 # Will Helliwell
 
-| [Technologies](#Technologies) | [Experience](#Experience) |[Projects](#Projects) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
+| [Technologies](#Technologies) | [Experience](#Experience) | [Projects](#Projects) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
 
 I am a Full-stack Developer, combining my tech experience with a commercial and Cambridge STEM background. I am passionate about working alongside clients to solve tricky business problems, with 3 years experience creating inventive workarounds for problems and leading on the delivery of greenfield projects serving thousands of customers at a London start-up. I now want to apply these skills to solve difficult problems for new clients in new contexts.
 
