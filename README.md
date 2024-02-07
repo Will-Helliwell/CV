@@ -24,7 +24,7 @@ I am a Full-stack Developer, combining my tech experience with a commercial and 
 
 #### [MakeThatDish.com](https://makethatdish.com/) (Jun’19 - present)
 <i>(WordPress, Google Analytics)</i><br><br>
-• I taught myself to build a Wordpress website from scratch to share knowledge with amateur cooks whilst abroad.<br> • I now write for and maintain the site, which attracts 1000 unique visitors per month.
+• I taught myself to build a Wordpress website from scratch to share knowledge with amateur cooks whilst abroad.<br> • I now write for and maintain the site, which attracts 2500 unique visitors per month.
 
 ## Projects
 
