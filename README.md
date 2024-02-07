@@ -1,6 +1,6 @@
 # Will Helliwell
 
-| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Technologies](#Technologies) | [Experience](#Experience) |[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
+| [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/) | [Technologies](#Technologies) | [Experience](#Experience) |[Projects](#Projects) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
 
 I am a Full-stack Developer, combining my tech experience with a commercial and Cambridge STEM background. I am passionate about working alongside clients to solve tricky business problems, with 3 years experience creating inventive workarounds for problems and leading on the delivery of greenfield projects serving thousands of customers at a London start-up. I now want to apply these skills to solve difficult problems for new clients in new contexts.
 
@@ -29,36 +29,6 @@ I am a Full-stack Developer, combining my tech experience with a commercial and 
 | [**Whisky Tracker**](https://github.com/Will-Helliwell/whisky_tracker) | • My current ongoing side project - will save whisky-lovers’ time by tracking their favourite bottles across multiple sites using a web-scraper, emailing them when their desired price is reached. <br>• Following a tight BDD process to build from user-stories, using an MVC architecture. Current status: testing infrastructure, Travis continuous integration and user sign-in/up/out completed.| Rails, PostgreSQL, React |
 | [**Essbok**](https://github.com/Will-Helliwell/essbok) | • A social media app developed as a team. Allows signed-in users to make and delete posts from a posts page (a single-page React app  that can dynamically change in an event-based manner).<br>• Used ActiveRecord and PostgreSQL to manage user and post data in a SQL database. <br>• Unit and integration tested. Deployed via a continuous integration/continuous delivery pipeline. | Rails, PostgreSQL, React |
 | [**Bank Tech Test**](https://github.com/Will-Helliwell/bank_tech_test) | • A bank app solo project built in Ruby that can be interacted with via any Ruby REPL <br>• An example of a fully test-driven application built to a set of user stories following OO principles.<br>• 100% test coverage, 100% test-isolation using mocking. | Ruby, Rspec |
-
-
-
-
-## Skills
-
-I...
-
-- **Am a quick learner and problem-solver** - I have always loved learning about complex new domains and am not afraid to quickly apply learnings to solve problems, seeking support where necessary. At Sainsbury’s, not only did I successfully manage the technical implementation (e.g. merchandising and till system set-up) of a cafe range review 3 months into my first role with no handover, but after only 6 months I spotted an opportunity for better cafe menu board sourcing. Even though we had been with the supplier for 25 years, I decided to lead a menu-board tender after seeking guidance from my trading manager. The tender saved the category £300k per year and I was promoted to Cafe buyer after 11 months. In a software context, I used my new React and MongoDB skills to suggest and implement a back-end mechanism when my group was struggling with live-filtering on the front-end. This allowed us to keep cleaner front-end logic and complete the feature within the 2-week timeframe.
-
-- **Know when it's best to work as a team** - throughout my career I have enjoyed collaborating with others to get things done. For example, as Sainsbury’s Cafe Buyer I created an ambitious plan to halve menu size across the estate in order to improve customer service. When this was rejected on the basis of commercial-risk, I adapted by collaborating closely with Operations and Technical teams to set-up a low-risk trial in 10 stores. After analyzing 5% sales uplift (extrapolating to a possible £8m extra turnover across the estate), I presented the results in a deck that successfully gained senior management’s approval.
-
-- **Am experienced in Agile ways of working** - I have over two years of experience working within a Scrum framework at Sainsbury’s, participating in and subsequently leading sandups and even presenting to the whole trading floor. I liked the way in which the Agile methodology promoted knowledge-sharing and debates over approaches, and this mindset has continued with me into tech. For example, during our final project at Makers I helped my team to learn the brand new MERN stack by running daily knowledge-sharing sessions. This enabled us to develop more efficiently and focus on the product, eventually finishing all but one of our features from an ambitious list in 2 weeks.
-
-- **Understand the balance between perseverance and support** - I'm pretty relentless once I get my teeth into something, especially if it's a big project or a new learning (e.g. learning brickwork and ordering half a ton of clay to build a working wood-fired pizza oven), and I feel this trait translates pretty well into one of coders' favourite past-times: debugging (I've already come through some hair-pulling problems setting up the infrastructure for my [whisky tracker project](https://github.com/Will-Helliwell/whisky_tracker)). At the same time however, I understand that support can make the learning process much more efficient. At Sainsbury's for example, I asked an experienced buyer from another area to act as my informal mentor, which helped me to progress to Buyer myself within 11 months. I was then able to pass this favour on by acting as a mentor to 3 category assistants myself.
-
-
-## Experience
-
-**Food Website and Business** (Jun'19 to Sep'20)  
-
-- Taught myself to build a [Wordpress website](https://makethatdish.com/) from scratch to share knowledge with amateur cooks whilst abroad. I now write for and maintain the site, attracting 1000 unique visitors per month.<br>
-- Returned to the UK and started my own business selling fridge-cake in East Surrey. Learned aspects of marketing, product development, packaging, delivery and food safety to deliver up to 160 slices/week.
-
-**Sainsbury's** (May'17 to Jun'19)  
-_Food Buyer, Cafe_
-
-- Promoted after 11 months to Cafe Buyer, where I owned the design and execution of trading strategy (responsible for 350 stores and a £60m annual spend). Made data-driven decisions to keep margin flat.<br>
-- Developed strong communication skills working in an Agile team and building supplier relationships.<br>
-- Problem-solving and communication -  designed a salad range to improve customer experience. Listened to the perspective of Operations, who were cautious about difficulty for colleagues. Adapted to find a pragmatic solution, reducing menu complexity elsewhere to launch (sales increased 20% YoY).
 
 ## Education
 
