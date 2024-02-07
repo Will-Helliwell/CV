@@ -72,5 +72,6 @@ Technologies and practices covered:<br>
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/)
-- [Codewars](https://www.codewars.com/users/Will%20Helliwell)
+- [My Portfolio](https://portfolio-eight-blond-12.vercel.app/)
 - [MakeThatDish.com (my food website, made with Wordpress)](https://makethatdish.com/)
+- [Codewars](https://www.codewars.com/users/Will%20Helliwell)
