@@ -1,4 +1,4 @@
-# Will Helliwell
+# Will Helliwell CV
 
 | [Technologies](#Technologies) | [Experience](#Experience) | [Projects](#Projects) | [Education](#Education) | [Interests](#Other-Interests) | [Links](#Links) |
 
