@@ -77,7 +77,6 @@ Technologies and practices covered:<br>
 - **Travel** - I love travelling (mostly to learn about history and food) and have spent nearly two years of my life travelling, teaching, working and volunteering around South-East Asia, South Asia, China and Taiwan.
 
 ## Links
-- [Linkedin](https://www.linkedin.com/in/will-helliwell-671807130/)
 - [My Portfolio](https://portfolio-eight-blond-12.vercel.app/)
 - [MakeThatDish.com (my food website, made with Wordpress)](https://makethatdish.com/)
 - [Codewars](https://www.codewars.com/users/Will%20Helliwell)
